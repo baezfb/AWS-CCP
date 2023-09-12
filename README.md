@@ -18,4 +18,4 @@ Basic understanding of the following:
 
 ## Table of Contents
 
-- [Creating an AWS Account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
+- [Creating an AWS Account](aws/creating_an_aws_account.md)
